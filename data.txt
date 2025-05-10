@@ -1,0 +1,20 @@
+Adrian Lesniak
+12345
+3
+5 4 5 4 5 
+Barbara Kowal
+23456
+2
+4.5 4 5 4 4.5 
+Roman Zobek
+34567
+3
+4 4 4 4.5 3.5 
+Bogus Linda
+4
+2
+5 2 2 3.5 3 
+Ewa
+Drzyzga
+4
+3 2 2 2.5 3.5 

@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1678207220 source:c:\users\hp\desktop\programy na github\c++\programs\projekt 1\projekt\projekt\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+
+1742261170 source:f:\my portafolio it ulepszona\c++\programs\student management system - project\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<iomanip>
+	<sstream>
+	<cmath>
+	<algorithm>
+	<cctype>
+	"utils.h"
+	"student.h"
+
+1742252032 f:\my portafolio it ulepszona\c++\programs\student management system - project\utils.h
+	<windows.h>
+	<string>
+	<iostream>
+
+1742261168 f:\my portafolio it ulepszona\c++\programs\student management system - project\student.h
+	<string>
+	<fstream>
+	<vector>
+
+1742261232 source:f:\my portafolio it ulepszona\c++\programs\student management system - project\student.cpp
+	"student.h"
+	"utils.h"
+	<fstream>
+	<iostream>
+	<limits>
+	<sstream>
+	<iomanip>
+
+1742259506 source:f:\my portafolio it ulepszona\c++\programs\student management system - project\utils.cpp
+	"utils.h"
+	<fstream>
+	<conio.h>
+
