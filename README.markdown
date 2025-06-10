@@ -9,6 +9,8 @@ _A comprehensive C++ console system for efficient student data management, grade
 
 **Student Record Manager Pro** is a powerful and user-friendly C++ console application designed for streamlined management of student academic records. Utilizing dynamic arrays for flexible data handling, it allows users to add, edit, and remove student profiles, manage their grades (which can be randomly generated or manually input), and perform insightful analyses. Key functionalities include calculating overall class averages, individual student averages, and identifying top-performing students. The system also features robust search capabilities, data persistence through file I/O, and error logging for reliability. Its colorful interface enhances user interaction and data presentation.
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features
 
 *   👤 **Student Record Management**:
@@ -33,9 +35,21 @@ _A comprehensive C++ console system for efficient student data management, grade
 
 ## 🖼️ Screenshots
 
-**Coming soon!**
+_Screenshots showcasing the main menu, student list, grade input, statistical outputs, and other key interface elements._
 
-_This section will be updated with screenshots showcasing the main menu, student list, grade input, statistical outputs, and other key interface elements._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+  <img src="screenshots\7.jpg" width="300"/>
+  <img src="screenshots\8.jpg" width="300"/>
+  <img src="screenshots\9.jpg" width="300"/>
+  <img src="screenshots\10jpg" width="300"/>
+</p>
+
 
 ## ⚙️ System Requirements
 
